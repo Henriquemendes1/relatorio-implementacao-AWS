@@ -2,7 +2,8 @@
 
 Data: 09/04/2024
 Empresa: Abstergo Industries 
-Responsável: Henrique Mendes    
+
+Responsável pelo relatório: Henrique Mendes    
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Henrique Mendes. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
